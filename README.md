@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmishra071&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmishra071" /> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tarun-ridecell)](https://git.io/streak-stats)
 - 📫 How to reach me **tarunmishra071@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/tarunResume](https://bit.ly/tarunResume)
